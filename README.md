@@ -1,7 +1,7 @@
 # KBA
 
 
-(c) 2019 Naoki Masuyama
+(c) 2020 Naoki Masuyama
  
 Kernel Bayesian Adaptive Resonance Theory (KBA) proposed in:
 
